@@ -1,0 +1,12 @@
+{
+    "name": "com.ges.tinydi",
+    "displayName": "Tiny DI",
+    "author": { "name": "Derek Sliman", "url": "https://github.com/gestiran" },
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "description": "Dependencies injection at the initialization stage by field attributes.",
+    "keywords": [ "di", "dependency", "injection" ],
+    "license": "MIT",
+    "category": "DI",
+    "dependencies": { }
+}

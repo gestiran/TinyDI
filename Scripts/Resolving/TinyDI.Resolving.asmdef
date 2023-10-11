@@ -1,0 +1,21 @@
+{
+    "name": "TinyDI.Resolving",
+    "rootNamespace": "TinyDI.Resolving",
+    "references": [
+        "GUID:f81ce933da2c97649b0f9c53134748b4"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
